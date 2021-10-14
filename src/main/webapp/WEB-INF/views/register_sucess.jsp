@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>SelfCare</title>
+<title>Projeto Dimdim</title>
 <style type="text/css" >
 	body{
 		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,7 +26,7 @@
 <div align="center">
 
 	<div>
-		<h1>Projeto de migração Dimdim>DevOps</h1>
+		<h1>Projeto de migraÃ§Ã£o Dimdim>DevOps</h1>
 		<h2>Relatario registrado com sucesso!</h2>
 	</div>
 	
