@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Projeto SelfCare</title>
+<title>Projeto Dimdim</title>
 <style type="text/css" >
 body{
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -14,8 +14,8 @@ body{
 </head>
 <body>
 
-	<h1>Projeto de migração Dimdim>DevOps</h1>
-	<p>Vamos fomentar a cultura DevOps nesse importante processo de transição.</p>
+	<h1>Projeto de migraÃ§Ã£o Dimdim>DevOps</h1>
+	<p>Vamos fomentar a cultura DevOps nesse importante processo de transiÃ§Ã£o.</p>
 	
 	<h2>Relatorio De Atividades</h2>
 
