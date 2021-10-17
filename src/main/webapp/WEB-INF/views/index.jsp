@@ -14,8 +14,8 @@ body{
 </head>
 <body>
 
-	<h1>Projeto de migração Dimdim>DevOps</h1>
-	<p>Vamos fomentar a cultura DevOps nesse importante processo de transição.</p>
+	<h1>Projeto de Dimdim>DevOps</h1>
+	<p>Vamos fomentar a cultura DevOps nesse importante processo.</p>
 	
 	<h2>Relatorio De Atividades</h2>
 
