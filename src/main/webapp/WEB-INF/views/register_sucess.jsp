@@ -26,7 +26,7 @@
 <div align="center">
 
 	<div>
-		<h1>Projeto de migração Dimdim>DevOps</h1>
+		<h1>Projeto Dimdim>DevOps</h1>
 		<h2>Relatario registrado com sucesso!</h2>
 	</div>
 	
